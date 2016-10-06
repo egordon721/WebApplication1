@@ -1,1 +1,1 @@
-﻿
+﻿var viewModel = function () { };
